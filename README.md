@@ -3,11 +3,11 @@ This projet is developed during Labs of the subject IoT Architecture
 
 By:
 
+Bentaher Malek
+
 Henchir  Hatem
 
 Mohammed Omar Najjar
-
-Ben Taher Malek
 
 Abid Eya
 
